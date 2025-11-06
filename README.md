@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfrancocisterna
 - 👀 I’m interested in Machine Learning, Data Science, Complex Systems and Topological Network Analysis.
-- 🌱 I’m currently learning SQL and HTML.
+<!--- 🌱 I’m currently learning SQL and HTML.
 <!--- - 💞️ I’m looking to collaborate on ... -->
 <!--- - 📫 How to reach me: Try with telepathy until new advice... -->
 
